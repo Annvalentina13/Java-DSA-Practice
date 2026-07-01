@@ -60,13 +60,5 @@ public class ArrayListOperations {
         //Sorting
         Collections.sort(list);
 
-
-
-
-
-
-
-
-
     }
 }
